@@ -9,9 +9,16 @@
 
 ## 收录论文
 
-1. **The Quasi-Riemann Hypothesis**（准黎曼猜想）— 2026-10-05，有人类协助撰写
-2. **The p-adic section conjecture**（p进数截面猜想）— 2026-10-06
-3. **A group without fixed price**（无固定价格群）— 2026-10-05
+### 准黎曼猜想（结果家族 003）
+
+1. **The Quasi-Riemann Hypothesis: A Zero-Free Half-Plane Re(s)>7/8**（准黎曼猜想：实部大于八分之七）— 2026-09-30，有 Lean 形式化验证，是更强的版本
+2. **The Quasi-Riemann Hypothesis**（准黎曼猜想：实部大于十二分之十一）— 2026-10-05，替代证明，有人类协助撰写
+3. **Uniform exclusion of Landau–Siegel zeros**（朗道–西格尔零点的均匀排除）— 2026-10-01，与 7/8 版本配套
+
+### 其他
+
+4. **The p-adic section conjecture**（p进数截面猜想）— 2026-10-06
+5. **A group without fixed price**（无固定价格群）— 2026-10-05
 
 ## 查看方式
 
